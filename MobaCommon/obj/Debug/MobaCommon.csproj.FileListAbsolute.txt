@@ -1,0 +1,6 @@
+E:\UnityProject\MOBAGAME\Assets\Plugins\MobaCommon.dll
+E:\UnityProject\MOBAGAME\Assets\Plugins\MobaCommon.pdb
+E:\UnityProject\MOBAServer\MobaCommon\obj\Debug\MobaCommon.csproj.CoreCompileInputs.cache
+E:\UnityProject\MOBAServer\MobaCommon\obj\Debug\MobaCommon.dll
+E:\UnityProject\MOBAServer\MobaCommon\obj\Debug\MobaCommon.pdb
+E:\UnityProject\MOBAServer\MobaCommon\obj\Debug\MobaCommon.csprojAssemblyReference.cache

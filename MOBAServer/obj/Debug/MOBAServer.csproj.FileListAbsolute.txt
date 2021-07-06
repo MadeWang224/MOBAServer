@@ -1,0 +1,8 @@
+D:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MOBA\bin\log4net.config
+D:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MOBA\bin\MOBAServer.dll
+D:\PhotonServer\Photon-OnPremise-Server-SDK_v4-0-29-11263\deploy\MOBA\bin\MOBAServer.pdb
+E:\UnityProject\MOBAServer\MOBAServer\obj\Debug\MOBAServer.csprojAssemblyReference.cache
+E:\UnityProject\MOBAServer\MOBAServer\obj\Debug\MOBAServer.csproj.CoreCompileInputs.cache
+E:\UnityProject\MOBAServer\MOBAServer\obj\Debug\MOBAServer.csproj.CopyComplete
+E:\UnityProject\MOBAServer\MOBAServer\obj\Debug\MOBAServer.dll
+E:\UnityProject\MOBAServer\MOBAServer\obj\Debug\MOBAServer.pdb
