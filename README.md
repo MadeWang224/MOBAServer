@@ -1,6 +1,6 @@
 # MOBAServer
 * 客户端<https://github.com/MirrorAndLight/MOBAGAME>
-* dpHelper中修改数据库
+* DbHelper中修改数据库
 * photonServer v4.0
 * 这就是一个服务端
 ---
